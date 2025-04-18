@@ -1,6 +1,6 @@
 from BullTerrier import BullTerrier
 
-# Example usage
+# Example usages
 pet = BullTerrier("Charlie")
 pet.eat()
 pet.play()
